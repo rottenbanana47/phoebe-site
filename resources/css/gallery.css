@@ -1,0 +1,81 @@
+h1 {
+  font-size: 65px;
+}
+body {
+  color: darkorange;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.img1 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.img2 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.container {
+  padding-top: 60px;
+  display: flex;
+  flex-direction: column;
+}
+.navbar {
+  display: block;
+  padding-top: 30px;
+}
+nav a {
+  color: orange;
+  text-decoration: none;
+  font-size: 30px;
+  border-right: 2px solid darkorange;
+  padding-right: 5px;
+}
+.img3 {
+  margin-right: 50px;
+}
+.img4 {
+  margin-right: 50px;
+}
+.img5 {
+  margin-right: 50px;
+}
+.img6 {
+  margin-right: 50px;
+}
+.img8 {
+  margin-right: 50px;
+}
+.columnone {
+  display: flex;
+  flex-direction: row;
+}
+.img8 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
+}
+.columntwo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 50px;
+}
+.img9 {
+  margin-right: 20px;
+}
+.columnthree {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 50px;
+}

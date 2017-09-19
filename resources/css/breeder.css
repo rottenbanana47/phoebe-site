@@ -1,0 +1,28 @@
+.navbar {
+  display: block;
+  padding-top: 30px;
+}
+nav a {
+  color: orange;
+  text-decoration: none;
+  font-size: 30px;
+  border-right: 2px solid darkorange;
+  padding-right: 5px;
+}
+h1 {
+  font-size: 65px;
+}
+body {
+  color: darkorange;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+iframe {
+  height: 1000px;
+  width: 1000px;
+}
+nav {
+  margin-bottom: 50px;
+}
